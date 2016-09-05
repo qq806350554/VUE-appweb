@@ -1,0 +1,23 @@
+{ "data_qianduan": [
+{ "icon": "&#xe65a;", "name":"html5", "luyou": "index" },
+{ "icon": "&#xe60f;", "name":"css3", "luyou": "index"},
+{ "icon": "&#xe604;", "name":"css3", "luyou": "index" },
+{ "icon": "&#xe65a;", "name":"css3", "luyou": "index" },
+{ "icon": "&#xe60f;", "name":"css3", "luyou": "index"},
+{ "icon": "&#xe604;", "name":"html5", "luyou": "index" }
+],
+ "data_houtai": [
+{ "icon": "&#xe65a;", "name":"PHP", "luyou": "index" },
+{ "icon": "&#xe60f;", "name":"PHP", "luyou": "index"},
+{ "icon": "&#xe604;", "name":"PHP", "luyou": "index" },
+{ "icon": "&#xe65a;", "name":"PHP", "luyou": "index" },
+{ "icon": "&#xe60f;", "name":"PHP", "luyou": "index"}
+],
+ "data_sheji": [
+{ "icon": "&#xe65a;", "name":"photoshop", "luyou": "index" },
+{ "icon": "&#xe60f;", "name":"photoshop", "luyou": "index"},
+{ "icon": "&#xe604;", "name":"photoshop", "luyou": "index" },
+{ "icon": "&#xe65a;", "name":"photoshop", "luyou": "index" },
+{ "icon": "&#xe60f;", "name":"photoshop", "luyou": "index"}
+]
+}
